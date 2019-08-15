@@ -3,5 +3,7 @@ def  speak_to_grandma
  end
  'Hi, how are you?'=='WHAT?' 'NO, NOT SINCE 1938!'
 end
- '''I LOVE YOU GRANDMA!'''
+ 'HI GRANDMA!'=='HUH! SPEAK UP SONNY!'
+ end
+ 
 else 'I LOVE YOU TOO PUMPKIN!'
