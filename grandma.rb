@@ -1,8 +1,7 @@
 def  speak_to_grandma 
-if 'I LOVE YOU GRANDMA!''I LOVE YOU TOO PUMPKIN!'
+  'I LOVE YOU GRANDMA!'=='I LOVE YOU TOO PUMPKIN!'
  end
-else if 'Hi, how are you?'
-puts 'WHAT?' 'NO, NOT SINCE 1938!'
+ 'Hi, how are you?'=='WHAT?' 'NO, NOT SINCE 1938!'
 end
-else if 'I LOVE YOU GRANDMA!'
+ 'I LOVE YOU GRANDMA!'
 else 'I LOVE YOU TOO PUMPKIN!'
