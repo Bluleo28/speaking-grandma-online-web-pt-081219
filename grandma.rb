@@ -1,2 +1,2 @@
-if (speak_to_grandma('I LOVE YOU GRANDMA!')) .to eq 'I LOVE YOU TOO PUMPKIN!'
+if (speak_to_grandma('I LOVE YOU GRANDMA!'))  'I LOVE YOU TOO PUMPKIN!'
   
