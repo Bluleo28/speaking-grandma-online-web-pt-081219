@@ -4,6 +4,7 @@ def  speak_to_grandma(phrase)
  else if 'Hi, how are you?'==
    return 'WHAT?' 'NO, NOT SINCE 1938!'
 end
+else
  'HI GRANDMA!'=='HUH! SPEAK UP SONNY!'
  end
  'WHAT DID YOU EAT TODAY?'== 'NO, NOT NOT SINCE 1938!.'
