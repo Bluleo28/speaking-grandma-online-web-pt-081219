@@ -1,7 +1,8 @@
 def  speak_to_grandma(phrase) 
  if phrase  'I LOVE YOU GRANDMA!'==
  return 'I LOVE YOU TOO PUMPKIN'
- 'Hi, how are you?'=='WHAT?' 'NO, NOT SINCE 1938!'
+ else if 'Hi, how are you?'==
+   return 'WHAT?' 'NO, NOT SINCE 1938!'
 end
  'HI GRANDMA!'=='HUH! SPEAK UP SONNY!'
  end
